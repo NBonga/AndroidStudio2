@@ -6,6 +6,16 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
+    <string name="movie_selection">Movie Selection</string>
+    <string name="onward">ONWARD</string>
+    <string name="avatar">AVATAR</string>
+    <string name="frozen">FROZEN</string>
+    <string name="black_widow">BLACK WIDOW</string>
+    <string name="angry_birds">ANGRY BIRDS</string>
+    <string name="turning_red">TURNING RED</string>
+    <string name="parker">PARKER</string>
+    <string name="shazam">SHAZAM</string>
+
 
     <string name="lorem_ipsum">
 

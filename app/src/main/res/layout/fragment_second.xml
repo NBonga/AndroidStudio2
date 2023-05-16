@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Movie Selection"
+        android:text="@string/movie_selection"
         android:textSize="40dp"
         android:layout_gravity="center_horizontal" />
 
@@ -53,7 +53,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="ANGRY BIRDS"
+                    android:text="@string/angry_birds"
                     android:textAlignment="center"
                     android:textStyle="bold" />
 
@@ -92,7 +92,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="SHAZAM"
+                    android:text="@string/shazam"
                     android:textAlignment="center"
                     android:textStyle="bold" />
 
@@ -137,7 +137,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="PARKER"
+                    android:text="@string/parker"
                     android:textAlignment="center"
                     android:textStyle="bold" />
 
@@ -176,7 +176,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="TURNING RED"
+                    android:text="@string/turning_red"
                     android:textAlignment="center"
                     android:textStyle="bold" />
 
